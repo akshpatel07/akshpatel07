@@ -129,24 +129,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshpatel07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🎓 Education
-
-| Degree | Institute | Year | Score |
-|--------|-----------|------|-------|
-| B.E. — CSE (AI & ML) | The National Institute of Engineering | 2022 – 2026 | 7.35 CGPA |
-| Diploma — CSE | Polytechnic Arakere | 2020 – 2023 | 9.03 CGPA |
-| Class 10 — CBSE | Chinmaya Vidyalaya English Medium School | 2019 – 2020 | 63% |
-
----
-
 ### 🏅 Certifications
 
 - 📜 **Fundamentals of Digital Marketing** — Google
